@@ -15,7 +15,8 @@ Gnutypist Lessons
 # Usage
 
 Download this repository as a .zip file, place the desired .typ lessons
-in `/gnu-typist/share/gtypist`
+in `/gnu-typist/share/gtypist`.
+Individual .typ files are located in `/shakespeare`.
 
 # Development
 The Python script [txt2typ.py](txt2py.py) was used to create these lessons.
