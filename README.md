@@ -2,7 +2,7 @@ Gnutypist Lessons
 ---
 
 
-  GNUtypist is a typing tutor frokm the [GNU
+  [GNUtypist](https://www.gnu.org/software/gtypist/) is a typing tutor frokm the [GNU
   Project](https://www.gnu.org/). It provides a command line interface
   with guided typing lessons. It also provides a method of constructing
   your own lessons. This is a collection of Shakespeare's plays, converted into
@@ -10,7 +10,7 @@ Gnutypist Lessons
 
 # Requirements
 
--   [Gnu typist](https://www.gnu.org/software/gtypist/)
+-   [GNUtypist](https://www.gnu.org/software/gtypist/)
 
 # Usage
 
